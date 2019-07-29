@@ -1,5 +1,5 @@
 from flask import Blueprint
-from chun import db
+from mywebsite import db
 ac = Blueprint('ac',__name__)
 
 

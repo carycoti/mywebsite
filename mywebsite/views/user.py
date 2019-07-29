@@ -1,6 +1,6 @@
 from flask import Blueprint
-from chun import db
-from chun import models
+from mywebsite import db
+from mywebsite import models
 us = Blueprint('us',__name__)
 
 
